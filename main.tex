@@ -1,0 +1,115 @@
+% 公立はこだて未来大学 卒業論文 テンプレート ver1.50
+% (c) Junichi Akita (akita@fun.ac.jp), 2003.10.31
+% update by N.T.,  2004.11.10
+%
+\documentclass{funthesis}
+%¥documentclass[english]{funthesis} % use [english] option for English style
+
+\usepackage{graphicx} % 図(EPS形式)を本文中で読み込む場合はこれを宣言
+\usepackage{url}
+
+% この部分に，タイトル・氏名などを書く．
+% タイトルなどの定義の始まり
+\jtitle{知識ベース型推薦を用いたフードツーリズム支援システムの構築}% 論文の和文タイトル
+%
+\etitle{Development of a Food Tourism Support System Using Knowledge-based Recommendation}% 論文の英文タイトル
+%
+\htitle{Development of a Food Tourism Support System Using Knowledge-based Recommendation}   % ヘッダー用の論文の短縮英文タイトル
+%     必ず1行に収まるように英文タイトルを短縮する．
+%
+\jauthor{三好　良弥}     % 氏名(日本語)
+\eauthor{Ryoya Miyoshi}   % 氏名(英語)
+\jaffiliciation{情報アーキテクチャ学科} % 所属学科名(日本語)
+\eaffiliciation{Department of Media Architecture} % 所属学科名(英語)
+\studentnumber{1014127}   % 学籍番号
+\jadvisor{奥野　拓}    % 正指導教員名(日本語)
+%¥jcoadvisor{} % 副指導教員(日本語)がいる場合は
+                        % コメントアウトし名前を書く
+                        % 副指導教員がいない場合は，ここは削除しても可
+\eadvisor{Taku OKUNO}  % 正指導教員名(英語)
+%¥ecoadvisor{}   % 副指導教員(英語)がいる場合は
+                         % コメントアウトし名前を書く
+                         % 副指導教員がいない場合は，ここは削除しても可
+\jdate{平成30年01月31日}    % 論文提出日   (日本語)
+\edate{January 31, 2018}     % 論文提出年月　(英語)
+% タイトルなどの定義の終わり
+
+\begin{document}
+
+%--------------------------------------------------------------------
+\maketitle       % タイトルページを作成
+
+%--------------------------------------------------------------------
+% 英文概要(250語程度)
+\begin{eabstract}
+hogehogehogehogehogehogehogehogehogehogehogehogehogehogehogehogehogehogehogehogehogehogehogehogehogehogehogehogehogehogehogehogehogehogehogehogehogehogehogehogehogehogehogehogehogehogehogehogehogehogehogehogehogehogehogehogehogehogehogehogehogehogehogehogehogehogehogehogehogehogehogehogehogehogehogehogehogehogehogehogehogehogehogehogehogehogehogehogehogehogehogehogehogehogehogehogehogehogehogehogehogehogehogehogehogehogehogehogehogehogehogehogehogehogehogehogehogehogehogehogehogehogehogehogehogehogehogehogehogehogehogehoge.
+\end{eabstract}
+
+% 英文キーワード(5個程度をコンマ(,)で区切って羅列する)
+\begin{ekeyword}
+Kowledge-based Recommender System
+\end{ekeyword}
+
+%--------------------------------------------------------------------
+% 和文概要(300字程度)
+\begin{jabstract}
+近年，地域らしい料理を食べることを目的とした旅であるフードツーリズムが盛んである．しかし，観光客の嗜好によって地域らしい料理の判断基準が異なるため，従来のグルメサイトでは地域らしい料理を探すことが困難である．この問題を解決するために，観光客の嗜好を考慮した地域らしい料理推薦システムを提案する．グルメサイトからWebスクレイピングを行い抽出した飲食店及び料理の情報を用いてデータベースを構築し，観光客の嗜好にあった地域らしい料理の推薦を行う．推薦手法として，「評価が高い商品」や「1000円以下の商品」などユーザが商品に求める具体的な条件がある場合に有効な知識ベース型推薦を用いることで，嗜好にあった料理の推薦を可能にする．
+
+\end{jabstract}
+
+% 和文キーワード(5個程度をコンマ(,)で区切って羅列する)
+\begin{jkeyword}
+知識ベース型推薦
+\end{jkeyword}
+
+%--------------------------------------------------------------------
+\tableofcontents % 目次を作成
+
+
+
+%--------------------------------------------------------------------
+% ¥includegraphics[width=??cm]{hoge.eps} % 図(EPS形式)を読み込む場合
+
+
+%--------------------------------------------------------------------
+\chapter{序論} 
+
+\section{背景}
+
+\section{研究目的}  
+
+\section{本論文の構成}
+
+%--------------------------------------------------------------------
+\chapter{関連技術}
+
+%--------------------------------------------------------------------
+\chapter{関連研究}
+
+%--------------------------------------------------------------------
+\chapter{提案手法}
+
+%--------------------------------------------------------------------
+\chapter{実験}
+
+%--------------------------------------------------------------------
+\chapter{結論}
+
+\section{まとめ}
+\section{今後の展望}
+\chapter *{謝辞}
+
+
+
+%--------------------------------------------------------------------
+% 参考文献
+\begin{thebibliography}{7}
+\end{thebibliography}
+
+% 表目次の表示
+\listoftables
+
+% 図目次の表示
+\listoffigures
+
+\end{document}
