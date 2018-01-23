@@ -1,7 +1,6 @@
-This is e-pTeX, Version 3.14159265-p3.7-160201-2.6 (utf8.euc) (TeX Live 2016) (preloaded format=platex 2016.7.16)  11 JAN 2018 16:01
+This is e-pTeX, Version 3.14159265-p3.7-160201-2.6 (utf8.euc) (TeX Live 2016) (preloaded format=platex 2016.7.16)  24 JAN 2018 06:04
 entering extended mode
  restricted \write18 enabled.
- file:line:error style messages enabled.
  %&-line parsing enabled.
 **main.tex
 (./main.tex
@@ -106,9 +105,9 @@ LaTeX Font Info:    Font shape `JY1/mc/bx/n' in size <10> not available
 (Font)              Font shape `JY1/gt/m/n' tried instead on input line 44.
  [0]
 LaTeX Font Info:    Font shape `JT1/mc/bx/n' in size <20.74> not available
-(Font)              Font shape `JT1/gt/m/n' tried instead on input line 66.
+(Font)              Font shape `JT1/gt/m/n' tried instead on input line 75.
 LaTeX Font Info:    Font shape `JY1/mc/bx/n' in size <20.74> not available
-(Font)              Font shape `JY1/gt/m/n' tried instead on input line 66.
+(Font)              Font shape `JY1/gt/m/n' tried instead on input line 75.
  (./main.toc
 LaTeX Font Info:    External font `cmex10' loaded for size
 (Font)              <10.95> on input line 2.
@@ -123,74 +122,115 @@ LaTeX Font Info:    External font `cmex10' loaded for size
 
 
 LaTeX Font Warning: Font shape `JT1/mc/m/it' undefined
-(Font)              using `JT1/mc/m/n' instead on input line 66.
+(Font)              using `JT1/mc/m/n' instead on input line 75.
 
 
 LaTeX Font Warning: Font shape `JY1/mc/m/it' undefined
-(Font)              using `JY1/mc/m/n' instead on input line 66.
+(Font)              using `JY1/mc/m/n' instead on input line 75.
 
 [1
 
 ]
 第 1 章
-[1
 
-]
+LaTeX Warning: Citation `1' on page 1 undefined on input line 88.
+
+
+LaTeX Warning: Citation `2' on page 1 undefined on input line 90.
+
+
+LaTeX Warning: Citation `3' on page 1 undefined on input line 92.
+
+File: jaran.eps Graphic file (type eps)
+<jaran.eps> [1
+
+] [2]
 第 2 章
-[2
 
-]
-第 3 章
+LaTeX Warning: Citation `6' on page 3 undefined on input line 124.
+
+
+LaTeX Warning: Citation `7' on page 3 undefined on input line 132.
+
+
+LaTeX Warning: Citation `8' on page 3 undefined on input line 141.
+
 [3
 
-]
-第 4 章
-File: model.eps Graphic file (type eps)
-<model.eps> [4
+] [4]
+第 3 章
+
+LaTeX Warning: Citation `4' on page 5 undefined on input line 154.
+
+
+LaTeX Warning: Citation `5' on page 5 undefined on input line 159.
+
+[5
 
 ]
-LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <5> on input line 138.
- [5] [6]
+Overfull \hbox (7.57672pt too wide) in paragraph at lines 222--230
+ [][][] 
+ []
+
+[6] [7]
+第 4 章
+File: model.eps Graphic file (type eps)
+<model.eps> [8
+
+]
+
+LaTeX Warning: Citation `4' on page 9 undefined on input line 319.
+
+
+LaTeX Warning: Citation `5' on page 9 undefined on input line 319.
+
+[9]
+File: test1.eps Graphic file (type eps)
+ <test1.eps> [10]
+File: test.eps Graphic file (type eps)
+ <test.eps> [11]
 第 5 章
-[7
+[12
 
 ]
 第 6 章
-[8
+[13
 
-] [9
+] [14
 
 ]
 
-LaTeX Warning: Empty `thebibliography' environment on input line 207.
+LaTeX Warning: Empty `thebibliography' environment on input line 364.
 
-[10
+[15
 
 ] (./main.lot)
 \tf@lot=\write4
 \openout4 = `main.lot'.
 
- [11
+ [16
 
 ] (./main.lof)
 \tf@lof=\write5
 \openout5 = `main.lof'.
 
- [12
+ [17
 
 ] (./main.aux)
 
 LaTeX Font Warning: Some font shapes were not available, defaults substituted.
 
+
+LaTeX Warning: There were undefined references.
+
  ) 
 Here is how much of TeX's memory you used:
- 812 strings out of 493683
- 9455 string characters out of 6149658
- 72534 words of memory out of 5000000
- 4412 multiletter control sequences out of 15000+600000
+ 825 strings out of 493683
+ 9517 string characters out of 6149658
+ 73547 words of memory out of 5000000
+ 4422 multiletter control sequences out of 15000+600000
  18420 words of font info for 71 fonts, out of 8000000 for 9000
  929 hyphenation exceptions out of 8191
- 25i,9n,19p,628b,341s stack positions out of 5000i,500n,10000p,200000b,80000s
+ 25i,9n,21p,197b,346s stack positions out of 5000i,500n,10000p,200000b,80000s
 
-Output written on main.dvi (15 pages, 24820 bytes).
+Output written on main.dvi (20 pages, 42780 bytes).
