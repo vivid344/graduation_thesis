@@ -1,4 +1,4 @@
-This is e-pTeX, Version 3.14159265-p3.7-160201-2.6 (utf8.euc) (TeX Live 2016) (preloaded format=platex 2016.7.16)  26 JAN 2018 21:57
+This is e-pTeX, Version 3.14159265-p3.7-160201-2.6 (utf8.euc) (TeX Live 2016) (preloaded format=platex 2016.7.16)  26 JAN 2018 23:37
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -150,21 +150,18 @@ File: resipi.eps Graphic file (type eps)
 [6
 
 ]
-Overfull \hbox (7.57672pt too wide) in paragraph at lines 251--259
+Overfull \hbox (7.57672pt too wide) in paragraph at lines 254--262
  [][][] 
  []
 
 [7] [8]
 第 4 章
+[9
+
+]
 File: model.eps Graphic file (type eps)
-<model.eps> [9
-
-] [10]
-
-LaTeX Warning: Citation `13' on page 11 undefined on input line 368.
-
-
-Overfull \hbox (28.48485pt too wide) in paragraph at lines 368--370
+ <model.eps> [10]
+Overfull \hbox (33.48845pt too wide) in paragraph at lines 372--374
 []\JY1/mc/m/it/10.95 地域発祥の料理の貢献度は ， 製品特性の料理名と \OT1/cmr/m/
 n/10.95 JAPAN WEB MAGAZINE[[]]\JY1/mc/m/it/10.95 ， \OT1/cmr/m/n/10.95 Wikipedi
 a[[]]
@@ -176,13 +173,13 @@ File: start.eps Graphic file (type eps)
 File: after.eps Graphic file (type eps)
  <after.eps> [14]
 第 5 章
-LaTeX Font Info:    Try loading font information for OMS+cmr on input line 515.
+LaTeX Font Info:    Try loading font information for OMS+cmr on input line 526.
 
 (/usr/local/texlive/2016/texmf-dist/tex/latex/base/omscmr.fd
 File: omscmr.fd 2014/09/29 v2.5h Standard LaTeX font definitions
 )
 LaTeX Font Info:    Font shape `OMS/cmr/m/n' in size <10.95> not available
-(Font)              Font shape `OMS/cmsy/m/n' tried instead on input line 515.
+(Font)              Font shape `OMS/cmsy/m/n' tried instead on input line 526.
  [15
 
 ]
@@ -225,20 +222,14 @@ File: 5.7.eps Graphic file (type eps)
 
 LaTeX Font Warning: Some font shapes were not available, defaults substituted.
 
-
-LaTeX Warning: There were undefined references.
-
-
-LaTeX Warning: Label(s) may have changed. Rerun to get cross-references right.
-
  ) 
 Here is how much of TeX's memory you used:
  876 strings out of 493683
  10136 string characters out of 6149658
- 75547 words of memory out of 5000000
+ 76547 words of memory out of 5000000
  4459 multiletter control sequences out of 15000+600000
  18588 words of font info for 72 fonts, out of 8000000 for 9000
  929 hyphenation exceptions out of 8191
  28i,9n,25p,238b,408s stack positions out of 5000i,500n,10000p,200000b,80000s
 
-Output written on main.dvi (29 pages, 78200 bytes).
+Output written on main.dvi (29 pages, 80524 bytes).
