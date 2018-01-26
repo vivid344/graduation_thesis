@@ -1,6 +1,7 @@
-This is e-pTeX, Version 3.14159265-p3.7-160201-2.6 (utf8.euc) (TeX Live 2016) (preloaded format=platex 2016.7.16)  24 JAN 2018 06:04
+This is e-pTeX, Version 3.14159265-p3.7-160201-2.6 (utf8.euc) (TeX Live 2016) (preloaded format=platex 2016.7.16)  25 JAN 2018 22:39
 entering extended mode
  restricted \write18 enabled.
+ file:line:error style messages enabled.
  %&-line parsing enabled.
 **main.tex
 (./main.tex
@@ -105,9 +106,9 @@ LaTeX Font Info:    Font shape `JY1/mc/bx/n' in size <10> not available
 (Font)              Font shape `JY1/gt/m/n' tried instead on input line 44.
  [0]
 LaTeX Font Info:    Font shape `JT1/mc/bx/n' in size <20.74> not available
-(Font)              Font shape `JT1/gt/m/n' tried instead on input line 75.
+(Font)              Font shape `JT1/gt/m/n' tried instead on input line 77.
 LaTeX Font Info:    Font shape `JY1/mc/bx/n' in size <20.74> not available
-(Font)              Font shape `JY1/gt/m/n' tried instead on input line 75.
+(Font)              Font shape `JY1/gt/m/n' tried instead on input line 77.
  (./main.toc
 LaTeX Font Info:    External font `cmex10' loaded for size
 (Font)              <10.95> on input line 2.
@@ -122,99 +123,72 @@ LaTeX Font Info:    External font `cmex10' loaded for size
 
 
 LaTeX Font Warning: Font shape `JT1/mc/m/it' undefined
-(Font)              using `JT1/mc/m/n' instead on input line 75.
+(Font)              using `JT1/mc/m/n' instead on input line 77.
 
 
 LaTeX Font Warning: Font shape `JY1/mc/m/it' undefined
-(Font)              using `JY1/mc/m/n' instead on input line 75.
+(Font)              using `JY1/mc/m/n' instead on input line 77.
 
 [1
 
 ]
 第 1 章
 
-LaTeX Warning: Citation `1' on page 1 undefined on input line 88.
-
-
-LaTeX Warning: Citation `2' on page 1 undefined on input line 90.
-
-
-LaTeX Warning: Citation `3' on page 1 undefined on input line 92.
+LaTeX Warning: Citation `2' on page 1 undefined on input line 93.
 
 File: jaran.eps Graphic file (type eps)
 <jaran.eps> [1
 
-] [2]
+]
+File: tabelog.eps Graphic file (type eps)
+ <tabelog.eps>
+File: gurunabi.eps Graphic file (type eps)
+ <gurunabi.eps> [2] [3]
 第 2 章
+File: resipi.eps Graphic file (type eps)
+<resipi.eps> [4
 
-LaTeX Warning: Citation `6' on page 3 undefined on input line 124.
-
-
-LaTeX Warning: Citation `7' on page 3 undefined on input line 132.
-
-
-LaTeX Warning: Citation `8' on page 3 undefined on input line 141.
-
-[3
-
-] [4]
+] [5]
 第 3 章
-
-LaTeX Warning: Citation `4' on page 5 undefined on input line 154.
-
-
-LaTeX Warning: Citation `5' on page 5 undefined on input line 159.
-
-[5
+[6
 
 ]
-Overfull \hbox (7.57672pt too wide) in paragraph at lines 222--230
+Overfull \hbox (7.57672pt too wide) in paragraph at lines 251--259
  [][][] 
  []
 
-[6] [7]
+[7] [8]
 第 4 章
 File: model.eps Graphic file (type eps)
-<model.eps> [8
+<model.eps> [9
 
-]
-
-LaTeX Warning: Citation `4' on page 9 undefined on input line 319.
-
-
-LaTeX Warning: Citation `5' on page 9 undefined on input line 319.
-
-[9]
-File: test1.eps Graphic file (type eps)
- <test1.eps> [10]
-File: test.eps Graphic file (type eps)
- <test.eps> [11]
+] [10] [11] [12]
+File: start.eps Graphic file (type eps)
+ <start.eps> [13]
+File: after.eps Graphic file (type eps)
+ <after.eps> [14]
 第 5 章
-[12
+[15
 
 ]
 第 6 章
-[13
+[16
 
-] [14
+] [17
 
-]
-
-LaTeX Warning: Empty `thebibliography' environment on input line 364.
-
-[15
+] [18
 
 ] (./main.lot)
 \tf@lot=\write4
 \openout4 = `main.lot'.
 
- [16
+ [19
 
 ] (./main.lof)
 \tf@lof=\write5
 \openout5 = `main.lof'.
 
- [17
+ [20
 
 ] (./main.aux)
 
@@ -225,12 +199,12 @@ LaTeX Warning: There were undefined references.
 
  ) 
 Here is how much of TeX's memory you used:
- 825 strings out of 493683
- 9517 string characters out of 6149658
- 73547 words of memory out of 5000000
- 4422 multiletter control sequences out of 15000+600000
- 18420 words of font info for 71 fonts, out of 8000000 for 9000
+ 833 strings out of 493683
+ 9609 string characters out of 6149658
+ 75547 words of memory out of 5000000
+ 4426 multiletter control sequences out of 15000+600000
+ 18588 words of font info for 72 fonts, out of 8000000 for 9000
  929 hyphenation exceptions out of 8191
- 25i,9n,21p,197b,346s stack positions out of 5000i,500n,10000p,200000b,80000s
+ 25i,9n,22p,247b,346s stack positions out of 5000i,500n,10000p,200000b,80000s
 
-Output written on main.dvi (20 pages, 42780 bytes).
+Output written on main.dvi (23 pages, 58404 bytes).

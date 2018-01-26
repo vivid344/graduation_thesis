@@ -1,11 +1,17 @@
 \addvspace {10\p@ }
 \addvspace {10\p@ }
 \addvspace {10\p@ }
-\contentsline {table}{\numberline {3.1}{\ignorespaces 協調ベース型推薦を用いた商品を推薦する例}}{5}
-\contentsline {table}{\numberline {3.2}{\ignorespaces 内容ベース型推薦を用いた料理を推薦する例}}{6}
-\contentsline {table}{\numberline {3.3}{\ignorespaces 知識ベース型推薦を用いたカメラを推薦する例}}{6}
+\contentsline {table}{\numberline {3.1}{\ignorespaces 協調ベース型推薦を用いた商品を推薦する例}}{6}
+\contentsline {table}{\numberline {3.2}{\ignorespaces 内容ベース型推薦を用いた料理を推薦する例}}{7}
+\contentsline {table}{\numberline {3.3}{\ignorespaces 知識ベース型推薦を用いたカメラを推薦する例}}{7}
 \addvspace {10\p@ }
-\contentsline {table}{\numberline {4.1}{\ignorespaces 製品特性の例（料理）}}{9}
-\contentsline {table}{\numberline {4.2}{\ignorespaces 製品特性の例（店舗）}}{9}
+\contentsline {table}{\numberline {4.1}{\ignorespaces 収集した料理の情報）}}{9}
+\contentsline {table}{\numberline {4.2}{\ignorespaces 収集した店舗の情報}}{9}
+\contentsline {table}{\numberline {4.3}{\ignorespaces 収集した口コミの情報}}{10}
+\contentsline {table}{\numberline {4.4}{\ignorespaces 発祥地域と貢献度の値の関係}}{11}
+\contentsline {table}{\numberline {4.5}{\ignorespaces 開店した年と貢献度の値の関係}}{12}
+\contentsline {table}{\numberline {4.6}{\ignorespaces 取り扱っている店舗数と貢献度の値の関係}}{12}
+\contentsline {table}{\numberline {4.7}{\ignorespaces 口コミの数と貢献度の値の関係}}{13}
+\contentsline {table}{\numberline {4.8}{\ignorespaces 口コミに登場する割合と貢献度の値の関係}}{13}
 \addvspace {10\p@ }
 \addvspace {10\p@ }
