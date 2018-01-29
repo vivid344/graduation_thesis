@@ -445,7 +445,7 @@
     \vskip 1em%
     {\large \@eauthor}\par
     \vskip 1em%
-    {BA Thesis at Future University Hakodate, 2017}\par	%----この部分を変更
+    {BA Thesis at Future University Hakodate, 2018}\par	%----この部分を変更
     \vskip 1em%
     {\normalsize   Advisor: \ \@eadvisor%
       \ifx\@ecoadvisor\ecoadvisornull\else{,\qquad Coadvisor: \ \@ecoadvisor}\fi

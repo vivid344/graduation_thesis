@@ -1,0 +1,35 @@
+平成29 年度公立はこだて未来大学卒業論文
+知識ベース型推薦を用いたフードツーリズム支援システムの構築
+三好 良弥
+情報アーキテクチャ学科1014127
+指導教員奥野 拓
+提出日平成30 年01 月29 日
+
+Development of a Food Tourism Support System Using
+Knowledge-based Recommendation
+by
+Ryoya MIYOSHI
+BA Thesis at Future University Hakodate, 2018
+Advisor: Taku OKUNO
+Department of Media Architecture
+Future University Hakodate
+January 29, 2018
+
+Abstract– In recent years, food tourism that a tourism aimed at eating local food is popular.
+However, the criteria for regional dishes differ depending on the taste of tourists, it is difficult to
+find a local food at conventional gourmet websites. In order to solve this problem, this research
+proposes a local food recommendation system considering the taste of tourists. This research
+postulated four conditions that the user would like for local food. As a recommendation method,
+this research uses knowledge-based recommendation. This method is effective when the user has
+requirements for local food. In order to confirm the usefulness of the proposed method, this
+research compares the proposed system and the gourmet site. As a result, it became easier to
+find the local food, but this research founds that the condition for local food are insufficient.
+Keywords: Food Tourism, Knowledge-based Recommendation, Preference Information
+
+概要: 近年，地域らしい料理を食べることを目的とした旅であるフードツーリズムが盛んである．
+しかし，観光客の嗜好によって地域らしい料理の判断基準が異なるため，従来のグルメサイトでは地域らしい料理を探すことが困難である．
+この問題を解決するために，観光客の嗜好を考慮した地域らしい料理推薦システムを提案する．
+本研究では，ユーザが地域らしい料理に求める条件を4つ仮定し，
+「評価が高い商品」や「1000円以下の商品」などユーザが料理に求める具体的な条件がある場合に有効な知識ベース型推薦を用いてシステムを構築した．
+本研究の提案手法の有用性を確認するため，提案システムとグルメサイトの比較実験を行った．
+実験の結果，地域らしい料理を探すことは簡単になったが，地域らしい料理に求める条件が不足していることがわかった．
